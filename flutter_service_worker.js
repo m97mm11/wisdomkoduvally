@@ -3,23 +3,23 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "f7676ab13dee423d9088604cc4b5d490",
-"assets/assets/images/wisdomlogo.webp": "265bb466bafc2ad1c66004975a70e892",
-"assets/assets/images/wisdomorg.webp": "8389d44ee02ec5aca3123a2a9ada9241",
-"assets/assets/images/wisdomstud.webp": "098e666da8216184f127c0859ae30963",
-"assets/assets/images/wisdomyouth.webp": "340f180bd7e25b6b392e8ec5fbb09d10",
+  "assets/AssetManifest.json": "17b638ab51735c6cf26af1d42d048e94",
 "assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
 "assets/fonts/MaterialIcons-Regular.otf": "4e6447691c9509f7acdbf8a931a85ca1",
-"assets/NOTICES": "ead58aabbc498b0ecdc81b8f7df8a2bb",
+"assets/images/wisdomlogo.webp": "265bb466bafc2ad1c66004975a70e892",
+"assets/images/wisdomorg.webp": "8389d44ee02ec5aca3123a2a9ada9241",
+"assets/images/wisdomstud.webp": "098e666da8216184f127c0859ae30963",
+"assets/images/wisdomyouth.webp": "340f180bd7e25b6b392e8ec5fbb09d10",
+"assets/NOTICES": "26363305c0638e6c4bc62e58248735c1",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "6d342eb68f170c97609e9da345464e5e",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "caa678d9a594b3767f27e05dbb1a133c",
-"/": "caa678d9a594b3767f27e05dbb1a133c",
-"main.dart.js": "1b57af641581d8d335acb559be512786",
+"index.html": "c1f624086001802c444a1308218a067c",
+"/": "c1f624086001802c444a1308218a067c",
+"main.dart.js": "66d647d303ea3146d2c74029b48c8359",
 "manifest.json": "4867cf293866e99e4dec46b71c85f8ce",
 "version.json": "4dfb7148e5243e36a2a88e5882126bbd"
 };
